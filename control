@@ -1,0 +1,9 @@
+Package: de.richtownapps.weeflashlight
+Name: WeeFlashlight
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome widget for the notification center!
+Maintainer: Albert Schulz
+Author: Albert Schulz
+Section: Addons (NotificationCenter)
